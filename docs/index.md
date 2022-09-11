@@ -1,6 +1,16 @@
-Welcome to the multivariate analysis methods written in Python.
+# Welcome to the multivariate analysis methods written in Python.
 
-This site is under development
+The [github repository](https://github.com/baltricks/mva) of this site contains a collection of jupyter notebooks made while studying the following book:
 
-September 11, 2022 
-[Welcome](2022-09-11-welcome.html)
+<blockquote>
+Klaus Backhaus, Bernd Erichson, Sonja Gensler, Rolf Weiber, Thomas Weiber <br>
+Multivariate Analysemethoden <br>
+Eine anwendungsorientierte Einführung <br>
+16., vollständig überarbeitete und erweiterte Auflage 2021 <br>
+Springer Gabler. ISBN 978-3-658-32424-7
+</blockquote>
+
+
+### Blog:
+September 11, 2022: <br/>
+[Introduction](2022-09-11-introduction.html)
