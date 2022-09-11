@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-by: "by"
+author_name: "baltricks"
 date: 2022-09-11 10:00:00 -0000
 ---
 
