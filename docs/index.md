@@ -1,4 +1,4 @@
-# Welcome to the multivariate analysis methods written in Python.
+### Multivariate analysis methods written in Python.
 
 The [github repository](https://github.com/baltricks/mva) of this site contains a collection of jupyter notebooks made while studying the following book:
 
@@ -10,7 +10,8 @@ Eine anwendungsorientierte Einführung <br>
 Springer Gabler. ISBN 978-3-658-32424-7
 </blockquote>
 
+<br/>
 
-### Blog:
+#### Blog:
 September 11, 2022: <br/>
 [Introduction](2022-09-11-introduction.html)
