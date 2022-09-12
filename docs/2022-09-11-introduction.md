@@ -6,7 +6,8 @@ date: 2022-09-11 10:00:00 -0000
 ---
 
 The first chapter starts with an overview of the multivariate analysis methods that are described in the book.
-After that, statistical parameters and the basics of statistical testing are discussed. The chapter concludes with the issue of causality (and correlation).
+After that, statistical parameters and the basics of statistical testing are discussed. Other topics are causality and correlation, outlier and missing values. 
+All of these topics and concepts are used in detail in the following chapters.
 
 
 In the jupyter notebook written for this chapter much of the chapter's formulas, tables and graphs are coded using the following Python modules: *math*, 
