@@ -1,5 +1,7 @@
 # Methods for multivariate analysis
 
+[Github Page](https://baltricks.github.io/mva/) of this repository.
+
 This repository contains a collection of jupyter notebooks made while studying the following book:
 
 <blockquote>
