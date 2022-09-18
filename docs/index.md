@@ -12,6 +12,5 @@ Springer Gabler. ISBN 978-3-658-32424-7
 
 <br/>
 
-#### Blog:
-September 11, 2022: <br/>
-[Introduction](2022-09-11-introduction.html)
+#### Content:
+[Introduction](2022-09-11-introduction.html) (September 2022)
