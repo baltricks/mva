@@ -13,11 +13,11 @@ Springer Gabler. ISBN 978-3-658-32424-7
 </blockquote>
 
 
-The notebooks contain much of the book's formulas, tables and graphs - translated to Python. 
+The notebooks contain formulas, tables and graphs coded by myself with Python. 
 
-There are no explanations from the book included. The only purpose was to familiarize with the topic and to implement the presented methods in Python.
+There are no explanations from the book included. The only purpose was to familiarize with the topic and to translate the presented methods into Python.
 
 All notebooks are stored in the directory *notebooks* with the cell output to show the results - so you can study them and there is no need to run them on yourself.
 
 If you still want to run the notebooks you can use binder:
-* 1 Introduction: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/baltricks/mva/HEAD?labpath=notebooks%2F1_Introduction.ipynb)
+* Introduction (Basics): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/baltricks/mva/HEAD?labpath=notebooks%2F1_Introduction.ipynb)
